@@ -192,7 +192,7 @@ T98_Bybo_CRM_Patient_Card_sql_create=""""""
 T02_Card_Income_Create = [T02_Card_Income_sql_create,T02_Card_Income_sql_create_tmp]
                        # sql_P1_Rollback22099: {'begin_date': 'self.begin_date', 'end_date': 'self.end_date'},
                        # sql_P1_Del: {'begin_date': 'self.begin_date', 'end_date': 'self.end_date'},
-                       # sql2Tmp:['begin_date','end_date']
+                       # sql2Tmp:['begin_date','end_
 # T02_Card_Income = [Cus_Treat_dtail_tmp_truncate,Cus_Treat_dtail_tmp_insert,Cus_Treat_tmp_truncate,Cus_Treat_insert_tmp,Cus_Treat_del,Cus_Treat_insert
 
 
