@@ -1,0 +1,184 @@
+2021-06-15 15:18:10,820 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-15 15:18:10,865 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-15 15:18:10,865 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-15 15:18:10,865 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw T98_Bybo_Cus_Treat begintime=2021-06-15 15:18:10
+2021-06-15 15:18:10,972 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: T98_Bybo_Cus_Treatendtime=2021-06-15 15:18:10,Use Total_time 0 second
+2021-06-15 15:18:10,973 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:89] - INFO: database close
+2021-06-15 15:18:47,373 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-15 15:18:47,421 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-15 15:18:47,421 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-15 15:18:47,421 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw T98_Bybo_Cus_Treat begintime=2021-06-15 15:18:47
+2021-06-15 15:18:47,471 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:68] - ERROR: err Sql(1067, "Invalid default value for 'GroupIndex'")
+2021-06-15 15:18:47,527 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: T98_Bybo_Cus_Treatendtime=2021-06-15 15:18:47,Use Total_time 0 second
+2021-06-15 15:20:19,288 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-15 15:20:19,331 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-15 15:20:19,331 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-15 15:20:19,331 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw T98_Bybo_Cus_Treat begintime=2021-06-15 15:20:19
+2021-06-15 15:20:19,505 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: T98_Bybo_Cus_Treatendtime=2021-06-15 15:20:19,Use Total_time 0 second
+2021-06-15 15:20:19,505 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:89] - INFO: database close
+2021-06-15 15:20:30,760 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-15 15:20:30,801 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-15 15:20:30,801 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-15 15:20:30,801 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-15 15:20:30
+2021-06-15 15:20:30,847 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:68] - ERROR: err Sql(1054, "Unknown column 'b.RecordVersion' in 'field list'")
+2021-06-15 15:20:30,917 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-15 15:20:30,Use Total_time 0 second
+2021-06-15 15:40:17,486 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-15 15:40:17,534 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-15 15:40:17,535 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-15 15:40:17,535 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-15 15:40:17
+2021-06-15 15:40:17,604 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:68] - ERROR: err Sql(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.End_date='2099-01-01 00:00:00' and b.End_date='2099-01-01 00:00:00' \nGROUP BY ' at line 248")
+2021-06-15 15:40:17,665 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-15 15:40:17,Use Total_time 0 second
+2021-06-15 15:41:22,364 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-15 15:41:22,413 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-15 15:41:22,413 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-15 15:41:22,413 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-15 15:41:22
+2021-06-15 15:41:22,502 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:68] - ERROR: err Sql(1054, "Unknown column 'date（A.RecordCreatedTime）' in 'where clause'")
+2021-06-15 15:41:22,560 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-15 15:41:22,Use Total_time 0 second
+2021-06-15 15:42:57,936 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-15 15:42:57,991 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-15 15:42:57,991 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-15 15:42:57,991 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-15 15:42:57
+2021-06-15 15:42:58,078 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:68] - ERROR: err Sql(1054, "Unknown column 'date（a.RecordCreatedDate）' in 'where clause'")
+2021-06-15 15:42:58,146 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-15 15:42:58,Use Total_time 0 second
+2021-06-15 15:43:58,822 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-15 15:43:58,867 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-15 15:43:58,867 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-15 15:43:58,867 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-15 15:43:58
+2021-06-15 15:43:58,954 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:68] - ERROR: err Sql(1292, "Truncated incorrect DOUBLE value: ''")
+2021-06-15 15:43:59,015 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-15 15:43:58,Use Total_time 0 second
+2021-06-15 15:45:01,576 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-15 15:45:01,619 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-15 15:45:01,620 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-15 15:45:01,620 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-15 15:45:01
+2021-06-15 15:45:01,697 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:68] - ERROR: err Sql(1292, "Truncated incorrect DOUBLE value: ''")
+2021-06-15 15:45:01,754 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-15 15:45:01,Use Total_time 0 second
+2021-06-15 16:29:56,280 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-15 16:29:56,328 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-15 16:29:56,328 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-15 16:29:56,329 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-15 16:29:56
+2021-06-15 16:29:56,967 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:68] - ERROR: err Sql(1136, "Column count doesn't match value count at row 1")
+2021-06-15 16:29:57,027 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-15 16:29:56,Use Total_time 0 second
+2021-06-15 16:32:45,868 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-15 16:32:45,917 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-15 16:32:45,917 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-15 16:32:45,917 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-15 16:32:45
+2021-06-15 16:32:46,435 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-15 16:32:46,Use Total_time 0 second
+2021-06-15 16:32:46,435 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:89] - INFO: database close
+2021-06-15 17:35:40,188 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-15 17:35:40,238 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-15 17:35:40,238 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-15 17:35:40,238 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw T98_Bybo_Cus_Treat begintime=2021-06-15 17:35:40
+2021-06-15 17:35:40,367 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: T98_Bybo_Cus_Treatendtime=2021-06-15 17:35:40,Use Total_time 0 second
+2021-06-15 17:35:40,367 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:89] - INFO: database close
+2021-06-15 17:37:08,280 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-15 17:37:08,336 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-15 17:37:08,336 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-15 17:37:08,336 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw T98_Bybo_Cus_Treat begintime=2021-06-15 17:37:08
+2021-06-15 17:37:08,486 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: T98_Bybo_Cus_Treatendtime=2021-06-15 17:37:08,Use Total_time 0 second
+2021-06-15 17:37:08,486 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:89] - INFO: database close
+2021-06-15 17:48:01,592 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-15 17:48:01,649 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-15 17:48:01,650 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-15 17:48:01,650 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-15 17:48:01
+2021-06-15 17:48:33,255 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-15 17:48:33,Use Total_time 31 second
+2021-06-15 17:48:33,255 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:89] - INFO: database close
+2021-06-16 15:18:55,690 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-16 15:18:55,733 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-16 15:18:55,733 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-16 15:18:55,733 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-16 15:18:55
+2021-06-16 15:18:55,853 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:68] - ERROR: err Sql(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'between '2021-01-01' and '2021-01-02'\nGROUP BY 1,2,3,4' at line 15")
+2021-06-16 15:18:55,974 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-16 15:18:55,Use Total_time 0 second
+2021-06-16 15:21:41,271 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-16 15:21:41,317 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-16 15:21:41,317 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-16 15:21:41,317 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-16 15:21:41
+2021-06-16 15:25:57,178 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-16 15:25:57,Use Total_time 255 second
+2021-06-16 15:25:57,178 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:89] - INFO: database close
+2021-06-16 15:54:08,506 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-16 15:54:08,549 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-16 15:54:08,549 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-16 15:54:08,549 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-16 15:54:08
+2021-06-16 15:54:20,058 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:68] - ERROR: err Sql(1366, "Incorrect integer value: '' for column 'ItemGroupIndex' at row 1656684")
+2021-06-16 15:54:20,130 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-16 15:54:20,Use Total_time 11 second
+2021-06-16 15:56:29,520 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-16 15:56:29,570 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-16 15:56:29,570 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-16 15:56:29,570 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-16 15:56:29
+2021-06-16 15:56:40,993 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:68] - ERROR: err Sql(1366, "Incorrect integer value: '' for column 'ItemGroupIndex' at row 1656684")
+2021-06-16 15:56:41,052 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-16 15:56:41,Use Total_time 11 second
+2021-06-16 15:58:24,503 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-16 15:58:24,549 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-16 15:58:24,549 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-16 15:58:24,549 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-16 15:58:24
+2021-06-16 15:58:34,132 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:68] - ERROR: err Sql(1366, "Incorrect integer value: '' for column 'ItemGroupIndex' at row 1656684")
+2021-06-16 15:58:34,203 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-16 15:58:34,Use Total_time 9 second
+2021-06-16 16:29:53,780 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-16 16:29:53,824 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-16 16:29:53,824 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-16 16:29:53,824 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-16 16:29:53
+2021-06-16 16:51:42,400 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-16 16:51:42,554 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-16 16:51:42,554 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-16 16:51:42,554 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-16 16:51:42
+2021-06-16 16:53:24,520 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-16 16:53:24,610 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-16 16:53:24,610 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-16 16:53:24,610 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-16 16:53:24
+2021-06-16 16:58:44,514 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-16 16:58:44,557 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-16 16:58:44,557 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-16 16:58:44,557 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-16 16:58:44
+2021-06-16 16:58:52,293 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-16 16:58:52,339 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-16 16:58:52,340 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-16 16:58:52,340 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-16 16:58:52
+2021-06-16 17:05:27,375 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:68] - ERROR: err Sql(2013, 'Lost connection to MySQL server during query')
+2021-06-16 17:05:27,376 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\BaseModule.py[line:140] - ERROR: 增加msg出错(0, '')
+2021-06-16 17:06:05,800 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-16 17:06:05,903 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-16 17:06:05,903 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-16 17:06:05,903 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-16 17:06:05
+2021-06-16 17:21:00,742 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-16 17:21:00,Use Total_time 894 second
+2021-06-16 17:21:00,742 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:89] - INFO: database close
+2021-06-16 17:49:01,223 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-16 17:49:01,322 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-16 17:49:01,322 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-16 17:49:01,322 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-16 17:49:01
+2021-06-16 17:56:53,655 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:79] - INFO: Cus_Treatendtime=2021-06-16 17:56:53,Use Total_time 472 second
+2021-06-16 17:56:53,655 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:89] - INFO: database close
+2021-06-17 14:15:24,364 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-17 14:15:24,421 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 14:15:24,421 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-17 14:15:24,421 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-17 14:15:24
+2021-06-17 14:16:03,693 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-17 14:16:03,745 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 14:16:03,745 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-17 14:16:03,745 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-17 14:16:03
+2021-06-17 14:16:14,996 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-17 14:16:15,036 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 14:16:15,036 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:60] - INFO: Task begin
+2021-06-17 14:16:15,036 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:61] - INFO: draw Cus_Treat begintime=2021-06-17 14:16:15
+2021-06-17 15:42:27,475 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-17 15:42:28,159 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 15:42:28,159 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:62] - INFO: Task begin
+2021-06-17 15:42:28,159 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:63] - INFO: draw Cus_Treat begintime=2021-06-17 15:42:28
+2021-06-17 15:42:39,821 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:81] - INFO: Cus_Treatendtime=2021-06-17 15:42:39,Use Total_time 11 second
+2021-06-17 15:42:39,821 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:91] - INFO: database close
+2021-06-17 15:44:27,068 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-17 15:44:27,130 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 15:44:27,130 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:62] - INFO: Task begin
+2021-06-17 15:44:27,130 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:63] - INFO: draw Cus_Treat begintime=2021-06-17 15:44:27
+2021-06-17 15:48:13,402 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:81] - INFO: Cus_Treatendtime=2021-06-17 15:48:13,Use Total_time 226 second
+2021-06-17 15:48:13,402 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:91] - INFO: database close
+2021-06-17 16:24:31,773 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-17 16:24:31,815 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 16:24:31,815 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:62] - INFO: Task begin
+2021-06-17 16:24:31,815 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:63] - INFO: draw Cus_Treat begintime=2021-06-17 16:24:31
+2021-06-17 16:29:33,717 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:81] - INFO: Cus_Treatendtime=2021-06-17 16:29:33,Use Total_time 301 second
+2021-06-17 16:29:33,717 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:91] - INFO: database close
+2021-06-17 16:37:54,374 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-17 16:37:54,420 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-17 16:37:54,420 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:62] - INFO: Task begin
+2021-06-17 16:37:54,420 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:63] - INFO: draw Cus_Treat begintime=2021-06-17 16:37:54
+2021-06-17 16:43:56,495 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:81] - INFO: Cus_Treatendtime=2021-06-17 16:43:56,Use Total_time 362 second
+2021-06-17 16:43:56,496 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py[line:91] - INFO: database close

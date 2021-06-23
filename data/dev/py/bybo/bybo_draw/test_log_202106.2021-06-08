@@ -1,0 +1,163 @@
+2021-06-07 14:12:18,127 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 14:12:18,176 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 14:12:18,176 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 14:12:18,176 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 14:12:18
+2021-06-07 14:12:18,186 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '00:00:00) and   Chrg_Dt<=date(PayDateTime<=date(2021-06-06 00:00:00)' at line 2")
+2021-06-07 14:12:19,197 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_Patient结束 endtime=2021-06-07 14:12:18,总用时0秒
+2021-06-07 14:13:24,088 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 14:13:24,132 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 14:13:24,133 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 14:13:24,133 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 14:13:24
+2021-06-07 14:13:24,143 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '00:00:00) and   Chrg_Dt<=ate(2021-06-06 23:59:59)' at line 2")
+2021-06-07 14:13:24,518 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_Patient结束 endtime=2021-06-07 14:13:24,总用时0秒
+2021-06-07 14:13:34,239 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 14:13:34,287 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 14:13:34,287 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 14:13:34,287 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 14:13:34
+2021-06-07 14:13:34,296 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '00:00:00) and   Chrg_Dt<=date(2021-06-06 23:59:59)' at line 2")
+2021-06-07 14:13:35,278 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_Patient结束 endtime=2021-06-07 14:13:34,总用时0秒
+2021-06-07 14:14:10,896 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 14:14:10,939 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 14:14:10,939 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 14:14:10,939 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 14:14:10
+2021-06-07 14:14:10,950 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '00:00:00) and   Chrg_Dt<=date(2021-06-06 23:59:59)' at line 2")
+2021-06-07 14:14:29,898 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\BaseModule.py[line:140] - ERROR: 增加msg出错(2013, 'Lost connection to MySQL server during query ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)')
+2021-06-07 14:14:50,820 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 14:14:50,870 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 14:14:50,870 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 14:14:50,870 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 14:14:50
+2021-06-07 14:14:50,882 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '00:00:00) and   Chrg_Dt<=date(2021-06-06 23:59:59)' at line 2")
+2021-06-07 14:14:53,131 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_Patient结束 endtime=2021-06-07 14:14:50,总用时0秒
+2021-06-07 14:15:54,609 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 14:15:54,662 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 14:15:54,662 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 14:15:54,662 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 14:15:54
+2021-06-07 14:15:54,672 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '00:00:00,10)' at line 2")
+2021-06-07 14:15:54,734 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_Patient结束 endtime=2021-06-07 14:15:54,总用时0秒
+2021-06-07 14:16:05,872 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 14:16:05,914 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 14:16:05,914 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 14:16:05,914 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 14:16:05
+2021-06-07 14:16:05,935 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '00:00:00,10)' at line 2")
+2021-06-07 14:16:05,993 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_Patient结束 endtime=2021-06-07 14:16:05,总用时0秒
+2021-06-07 14:16:43,493 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 14:16:43,605 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 14:16:43,605 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 14:16:43,605 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 14:16:43
+2021-06-07 14:16:43,621 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1146, "Table 'bbkq_dm.98_bybo_cus_treat' doesn't exist")
+2021-06-07 14:16:43,741 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_Patient结束 endtime=2021-06-07 14:16:43,总用时0秒
+2021-06-07 14:18:08,383 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 14:18:08,425 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 14:18:08,426 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 14:18:08,426 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 14:18:08
+2021-06-07 14:18:15,091 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and a.RecordUpdatedTime>= str_to_date('2021-06-06 00:00:00','%%Y-%%m-%%d %%H:%%i' at line 72")
+2021-06-07 14:18:15,158 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_Patient结束 endtime=2021-06-07 14:18:15,总用时6秒
+2021-06-07 14:19:35,584 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 14:19:35,634 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 14:19:35,634 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 14:19:35,634 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 14:19:35
+2021-06-07 14:19:37,578 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and a.RecordUpdatedTime>= '2021-06-06 00:00:00' and \n a.RecordUpdatedTime<='2021' at line 72")
+2021-06-07 14:19:37,648 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_Patient结束 endtime=2021-06-07 14:19:37,总用时1秒
+2021-06-07 14:20:23,656 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 14:20:23,704 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 14:20:23,705 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 14:20:23,705 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 14:20:23
+2021-06-07 14:20:44,490 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(2013, 'Lost connection to MySQL server during query ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)')
+2021-06-07 14:20:44,490 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\BaseModule.py[line:140] - ERROR: 增加msg出错(0, '')
+2021-06-07 14:22:09,409 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 14:22:09,463 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 14:22:09,463 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 14:22:09,463 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 14:22:09
+2021-06-07 14:22:11,457 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1411, "Incorrect datetime value: '2021-06-06 00:00:00' for function str_to_date")
+2021-06-07 14:22:11,537 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_Patient结束 endtime=2021-06-07 14:22:11,总用时2秒
+2021-06-07 14:23:22,986 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 14:23:23,050 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 14:23:23,051 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 14:23:23,051 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 14:23:23
+2021-06-07 14:23:44,097 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\BaseModule.py[line:140] - ERROR: 增加msg出错(2013, 'Lost connection to MySQL server during query ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)')
+2021-06-07 14:25:34,908 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 14:25:34,957 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 14:25:34,957 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 14:25:34,957 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 14:25:34
+2021-06-07 14:25:56,046 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(2013, 'Lost connection to MySQL server during query ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)')
+2021-06-07 14:25:56,046 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\BaseModule.py[line:140] - ERROR: 增加msg出错(0, '')
+2021-06-07 15:02:31,178 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 15:02:31,254 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 15:02:31,254 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 15:02:31,255 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 15:02:31
+2021-06-07 15:02:48,441 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_Patient结束 endtime=2021-06-07 15:02:47,总用时16秒
+2021-06-07 15:02:48,441 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:88] - INFO: 数据库关闭
+2021-06-07 15:03:24,937 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 15:03:24,978 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 15:03:24,978 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 15:03:24,978 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 15:03:24
+2021-06-07 15:03:37,458 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_Patient结束 endtime=2021-06-07 15:03:37,总用时12秒
+2021-06-07 15:03:37,458 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:88] - INFO: 数据库关闭
+2021-06-07 15:24:24,628 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 15:24:24,686 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 15:24:24,686 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 15:24:24,687 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_create begintime=2021-06-07 15:24:24
+2021-06-07 15:24:24,703 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'InDm_timestamp datetime NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '进入DM的' at line 32")
+2021-06-07 15:24:29,336 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_create结束 endtime=2021-06-07 15:24:24,总用时0秒
+2021-06-07 15:24:39,146 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 15:24:39,189 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 15:24:39,190 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 15:24:39,190 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_create begintime=2021-06-07 15:24:39
+2021-06-07 15:24:58,138 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(2013, 'Lost connection to MySQL server during query ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)')
+2021-06-07 15:24:58,138 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\BaseModule.py[line:140] - ERROR: 增加msg出错(0, '')
+2021-06-07 15:25:04,418 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 15:25:04,466 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 15:25:04,466 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 15:25:04,466 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_create begintime=2021-06-07 15:25:04
+2021-06-07 15:25:05,397 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'InDm_timestamp datetime NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '进入DM的' at line 32")
+2021-06-07 15:25:05,451 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_create结束 endtime=2021-06-07 15:25:05,总用时0秒
+2021-06-07 15:25:27,694 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 15:25:27,745 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 15:25:27,745 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 15:25:27,745 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_create begintime=2021-06-07 15:25:27
+2021-06-07 15:33:38,345 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 15:33:38,388 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 15:33:38,388 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 15:33:38,388 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_create begintime=2021-06-07 15:33:38
+2021-06-07 15:34:54,000 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1050, "Table 't98_bybo_cus_treat' already exists")
+2021-06-07 15:34:55,000 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_create结束 endtime=2021-06-07 15:34:54,总用时75秒
+2021-06-07 16:28:12,151 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 16:28:12,190 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 16:28:12,191 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 16:28:12,191 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_create begintime=2021-06-07 16:28:12
+2021-06-07 16:28:16,813 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_create结束 endtime=2021-06-07 16:28:12,总用时0秒
+2021-06-07 16:28:16,813 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:88] - INFO: 数据库关闭
+2021-06-07 16:29:16,320 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 16:29:16,362 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 16:29:16,362 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 16:29:16,362 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 16:29:16
+2021-06-07 16:29:17,316 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' \n>=str_to_date('1900-01-01 00:00:00','%Y-%m-%d %H:%i:%s')\nand a.PayDateTime\n<=s' at line 74")
+2021-06-07 16:29:36,264 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\BaseModule.py[line:140] - ERROR: 增加msg出错(2013, 'Lost connection to MySQL server during query ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)')
+2021-06-07 16:29:59,035 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 16:29:59,078 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 16:29:59,078 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 16:29:59,078 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 16:29:59
+2021-06-07 16:30:10,898 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-07 16:30:10,941 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-07 16:30:10,942 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-07 16:30:10,942 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-07 16:30:10
+2021-06-07 16:31:12,569 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_Patient结束 endtime=2021-06-07 16:31:11,总用时60秒
+2021-06-07 16:31:12,569 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:88] - INFO: 数据库关闭
+2021-06-08 10:44:18,928 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-08 10:44:18,984 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-08 10:44:18,984 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-08 10:44:18,984 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_create begintime=2021-06-08 10:44:18
+2021-06-08 10:44:37,969 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(2013, 'Lost connection to MySQL server during query ([WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。)')
+2021-06-08 10:44:37,970 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\BaseModule.py[line:140] - ERROR: 增加msg出错(0, '')
+2021-06-08 10:45:14,620 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-08 10:45:14,673 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-08 10:45:14,673 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-08 10:45:14,674 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_create begintime=2021-06-08 10:45:14
+2021-06-08 10:45:15,199 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_create结束 endtime=2021-06-08 10:45:14,总用时0秒
+2021-06-08 10:45:15,199 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:88] - INFO: 数据库关闭
+2021-06-08 10:45:34,536 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\bybo\bybo_util\bybo_base.py[line:98] - INFO: self.dbdir=D:\泰康拜博\ETL\20210409_dm\data\dev\py\param\bybo\db_connect_info.ini
+2021-06-08 10:45:34,580 - D:\泰康拜博\ETL\20210409_dm\data\dev\py\util\MySqlConnect.py[line:65] - INFO: 连接数据库成功
+2021-06-08 10:45:34,580 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:59] - INFO: 任务开始
+2021-06-08 10:45:34,580 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:60] - INFO: draw order_table_Patient begintime=2021-06-08 10:45:34
+2021-06-08 10:45:35,559 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:67] - ERROR: 【异常sql】(1146, "Table 'bbkq_dw.t02_chargeorder_h' doesn't exist")
+2021-06-08 10:45:35,628 - D:/泰康拜博/ETL/20210409_dm/data/dev/py/bybo/bybo_draw/Bybo_test.py[line:78] - INFO: order_table_Patient结束 endtime=2021-06-08 10:45:35,总用时0秒
