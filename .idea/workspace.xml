@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f1f7cb9-054e-4d74-968c-84f3cd7c72d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="4f1f7cb9-054e-4d74-968c-84f3cd7c72d6" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/data/dev/py/bybo/bybo_draw/T98_Bybo_CRM_Patient_Card.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dev/py/bybo/bybo_draw/T02_Card_Income.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/dev/py/bybo/bybo_draw/T02_Card_Income.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/dev/py/bybo/bybo_draw/ByBo_RunSql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dev/py/bybo/bybo_draw/test_log_202106" beforeDir="false" afterPath="$PROJECT_DIR$/data/dev/py/bybo/bybo_draw/test_log_202106" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dev/py/bybo/bybo_draw/test_log_202106.2021-06-03" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -154,15 +160,9 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="FILTERS">
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
+                  <entry key="Show.Git.Branches" value="false" />
                 </map>
               </option>
             </State>
@@ -170,5 +170,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

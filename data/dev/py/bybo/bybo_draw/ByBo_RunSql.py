@@ -6,6 +6,7 @@ import datetime
 import traceback
 from T98_Bybo_Cus_Treat import *
 from T02_Card_Income import *
+from T98_Bybo_CRM_Patient_Card import *
 
 
 import os
@@ -43,7 +44,7 @@ class ByBo_RunSql(Bybo_base):
         # 默认为前一天
         yesterday = datetime.date.today() - datetime.timedelta(days=1)
         self.begin_date = '2021-01-01'
-        self.end_date = '2021-01-31'
+        self.end_date = '2021-07-31'
         # self.begin_date = (datetime.datetime(yesterday.year, yesterday.month, yesterday.day, 0, 0, 0)).strftime(stF1)
         # self.end_date = (datetime.datetime(yesterday.year, yesterday.month, yesterday.day, 23, 59, 59)).strftime(stF1)
         self._conn = self.get_connect()
@@ -114,6 +115,8 @@ if __name__ == '__main__':
     h=ByBo_RunSql()
     # h.log_info('T98_Bybo_Cus_Treat',Cus_Treat_Create)
     # h.log_info('Cus_Treat', Cus_Treat)
-    h.log_info('T02_Card_Income_Create',T02_Card_Income_Create)
+    # h.log_info('T02_Card_Income_Create',T02_Card_Income_Create)
+    # h.log_info('T98_Bybo_CRM_Patient_Card_Creat',T98_Bybo_CRM_Patient_Card_Create)
+    h.log_info('T98_Bybo_CRM_Patient_Card_Creat',T98_Bybo_CRM_Patient_Card_Treat)
 
     h.conn_close()
